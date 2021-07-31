@@ -1,6 +1,6 @@
 ### Hey sou Lipe Silva
  <div style="display: inline_block">
-<img align="right"  height="180em" alt="Lipe" src="https://cdn.discordapp.com/attachments/871079164306931714/871079236285366362/8745227a-9ffb-47c5-a736-5d31c39fc84d.jpg">
+<img align="right"  height="140em" alt="Lipe" src="https://cdn.discordapp.com/attachments/871079164306931714/871079236285366362/8745227a-9ffb-47c5-a736-5d31c39fc84d.jpg">
 
 <div class="flex-container"><br>
 
@@ -11,7 +11,7 @@
 </div>
 </div><br><br>
 
-<div>
+<div style="display: inline_block">
   <a href="https://github.com/silvalipe77">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=silvalipe77&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="140em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvalipe77&layout=compact&langs_count=7&theme=dracula"/>
