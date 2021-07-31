@@ -1,12 +1,15 @@
 ### Hey sou Lipe Silva
+ <div style="display: inline_block"><br>
+<img align="right"  height="180em" alt="Lipe" src="https://cdn.discordapp.com/attachments/871079164306931714/871079236285366362/8745227a-9ffb-47c5-a736-5d31c39fc84d.jpg">
 
+<div class="flex-container"><br>
 
 - 🔭 Hoje eu trabalho com front-end
 - 🌱 estudando Typescript
 - 👯 estou trabalhando em colab com eroaldo junior
 - 📫 contate-me no email: silvalipe77@hotmail.com
-<img align="right"  height="180em" alt="Lipe" src="https://cdn.discordapp.com/attachments/871079164306931714/871079236285366362/8745227a-9ffb-47c5-a736-5d31c39fc84d.jpg">
-
+</div>
+</div>
 <div>
   <a href="https://github.com/silvalipe77">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silvalipe77&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
