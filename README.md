@@ -19,7 +19,7 @@
   <img align="center" alt="Lipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
-  <img align="right" alt="Lipe" src="https://discordapp.com/channels/871079164306931712/871079164306931714/871079236432183366">
+  <img align="right" alt="Lipe" src="https://cdn.discordapp.com/attachments/871079164306931714/871079236285366362/8745227a-9ffb-47c5-a736-5d31c39fc84d.jpg">
 </div>
   
   ##
