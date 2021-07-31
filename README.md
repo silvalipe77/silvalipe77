@@ -5,8 +5,7 @@
 <div class="flex-container"><br>
 
 - 🔭 Hoje eu trabalho com front-end
-- 🌱 estudando Typescript
-- 👯 estou trabalhando em colab com eroaldo junior
+- 🌱 estudando Typescript 
 - 📫 contate-me no email: silvalipe77@hotmail.com
 </div>
 </div><br><br>
